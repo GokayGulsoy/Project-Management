@@ -18,4 +18,6 @@
 14. IEEE SPMP Standard and SPMP Draft Discussion 
 15. SPMP Review Meeting
 
-Textbooks can be found on: [Course textbooks 1](/Textbook1)
+Textbook wasn't uploaded due to its size but it's name is given below
+
+Textbooks can be found on: Object-Oriented Software Engineering An Agile Unified Methodology (David C. Kung)
